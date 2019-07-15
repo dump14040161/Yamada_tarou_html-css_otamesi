@@ -6,10 +6,17 @@
     text-align: right;
  }
 
- .body {
-    background-color: green;
+ body {
+    background-color: #E6E6E6;
+    margin-left: 30%;
+    margin-right: 30%;
  }
-        
+
+ div{
+     background-color: white;
+     
+    }
+
     
  li {
     background: #c2edff;
