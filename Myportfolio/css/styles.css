@@ -57,6 +57,12 @@ body {
 
   .works {
     width: 400px;
+    margin: 60px auto;
+    border-bottom: 1px solid gray;
+  }
+
+  .works > section {
+    margin-bottom: 40px;
   }
 
   .works h1,
