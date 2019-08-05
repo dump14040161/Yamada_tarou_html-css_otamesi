@@ -78,7 +78,8 @@ body {
   footer ul {
     margin: 0;
     list-style-type: none;
-    padding-left: 0;  
+    padding-left: 0;
+    float: left;  
   }
   
   footer li {
@@ -87,4 +88,10 @@ body {
   
   footer li > a:hover {
       opacity: 0.6;
+  }
+
+  footer p{
+    color: lightgray;
+    font-size: 14px;
+    text-align: right;
   }
