@@ -53,5 +53,13 @@ body {
       border-radius: 70px;
       border:white 5px solid;
       box-shadow: 0 0 5px rgb(4, 255, 255);
+  }
 
+  .works {
+    width: 400px;
+  }
+
+  .works h1,
+  .works p{
+    text-align: left;
   }
